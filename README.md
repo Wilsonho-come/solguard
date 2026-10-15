@@ -71,7 +71,9 @@ findings      : 36
     ...
 ```
 
-A full generated report is in `11-solguard-demo-report.md`.
+A full generated report — 36 findings (22 high / 13 medium / 1 low) against the
+deliberately vulnerable sample program — is in
+[`DEMO-REPORT.md`](DEMO-REPORT.md).
 
 ## Limitations
 
